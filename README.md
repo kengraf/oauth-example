@@ -22,8 +22,8 @@ Go to the developer portal for your specific provider(s).
 - Copy the client-id and client-secret back into the Firebase app for the that provider.
   - https://console.firebase.google.com/project/YOUR-APP/authentication/providers
 ---
-Authentication for your should look something like, your providers will vary
-[](./fire-auth.png)
+Authentication for your project should look something like, your providers will vary  
+![](fire-auth.png)
 
 ### Once edits to the files in the /public folder and setup are compete
 In the GCP Cloud Shell
