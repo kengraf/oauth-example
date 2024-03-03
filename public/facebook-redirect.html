@@ -43,9 +43,6 @@ limitations under the License.
         // [START createprovider]
         var provider = new firebase.auth.FacebookAuthProvider();
         // [END createprovider]
-        // [START addscopes]
-//KMG        provider.addScope('user_likes');
-        // [END addscopes]
         // [START signin]
         firebase.auth().signInWithRedirect(provider);
         // [END signin]
