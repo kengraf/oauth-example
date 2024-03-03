@@ -10,7 +10,7 @@ Even if you reuse the code provided.
 
 *Caveat*: Firebase creates two domains
 - https://<YOUR-APP>.web.app
-- https://<YOUR-APP>.firebaseapp.com
+- https://<YOUR-APP>.firebaseapp.com  
 *Pick one and stick to it for configuring your providers.*
 
 Website: https://<YOUR-APP>.firebaseapp.com
