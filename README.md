@@ -21,4 +21,15 @@ Go to the developer portal for your specific provider(s).
 - Set the the website and callback URLs
 - Copy the client-id and client-secret back into the Firebase app for the that provider.
   - https://console.firebase.google.com/project/YOUR-APP/authentication/providers
+---
+### Once edits to the files in the /public folder and setup are compete
+In the GCP Cloud Shell
+```
+git clone
+firebase init
+```
+Accept 'public' and 'N' for eveything else
+```
+firebase deploy
+```
 
