@@ -25,10 +25,10 @@ Go to the developer portal for your specific provider(s).
 ### Once edits to the files in the /public folder and setup are compete
 In the GCP Cloud Shell
 ```
-git clone
+git clone https://github.com/kengraf/oauth-example.git
+# Accept 'public' and 'N' for eveything else
 firebase init
 ```
-Accept 'public' and 'N' for eveything else
 ```
 firebase deploy
 ```
