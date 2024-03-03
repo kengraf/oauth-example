@@ -7,6 +7,7 @@ App has been registered with Google, Twitter, Facebook and GitHub and can use an
 
 ### You nust implement your own providers
 Even if you reuse the code provided.  
+Replace 'kengraf-auth2' with 'your-project-name' EVERYWHERE!
 
 *Caveat*: Firebase creates two domains
 - https://YOUR-APP.web.app
