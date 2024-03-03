@@ -9,16 +9,16 @@ App has been registered with Google, Twitter, Facebook and GitHub and can use an
 Even if you reuse the code provided.  
 
 *Caveat*: Firebase creates two domains
-- https://\<YOUR-APP\>.web.app
-- https://\<YOUR-APP\>.firebaseapp.com  
+- https://YOUR-APP.web.app
+- https://YOUR-APP.firebaseapp.com  
 *Pick one and stick to it for configuring your providers.*
 
-Website: https://\<YOUR-APP\>.firebaseapp.com  
-Callback URL: https://\<YOUR-APP\>.firebaseapp.com/__/auth/handler
+Website: https://YOUR-APP.firebaseapp.com  
+Callback URL: https://YOUR-APP.firebaseapp.com/__/auth/handler
 
 Go to the developer portal for your specific provider(s).
 - Create an web application.
 - Set the the website and callback URLs
 - Copy the client-id and client-secret back into the Firebase app for the that provider.
-  - https://console.firebase.google.com/project\/\<YOUR-APP\>\/authentication/providers
+  - https://console.firebase.google.com/project/YOUR-APP/authentication/providers
 
