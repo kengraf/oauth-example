@@ -8,10 +8,10 @@ App has been registered with Google, Twitter, Facebook and GitHub and can use an
 ### You nust implement your own providers
 Even if you reuse the code provided.  
 
-*Caveat* Firebase creates two domains:
+*Caveat*: Firebase creates two domains
 - https://<YOUR-APP>.web.app
 - https://<YOUR-APP>.firebaseapp.com
-Pick one and stick to it for configuring your providers.
+*Pick one and stick to it for configuring your providers.*
 
 Website: https://<YOUR-APP>.firebaseapp.com
 Callback URL: https://<YOUR-APP>.firebaseapp.com/__/auth/handler
