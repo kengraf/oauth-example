@@ -23,7 +23,7 @@ Go to the developer portal for your specific provider(s).
   - https://console.firebase.google.com/project/YOUR-APP/authentication/providers
 ---
 Authentication for your should look something like, your providers will vary
-[](./fire.png)
+[](./fire-auth.png)
 
 ### Once edits to the files in the /public folder and setup are compete
 In the GCP Cloud Shell
