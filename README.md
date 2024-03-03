@@ -13,12 +13,12 @@ Even if you reuse the code provided.
 - https://\<YOUR-APP\>.firebaseapp.com  
 *Pick one and stick to it for configuring your providers.*
 
-Website: https://\<YOUR-APP\>.firebaseapp.com
+Website: https://\<YOUR-APP\>.firebaseapp.com  
 Callback URL: https://\<YOUR-APP\>.firebaseapp.com/__/auth/handler
 
 Go to the developer portal for your specific provider(s).
 - Create an web application.
 - Set the the website and callback URLs
 - Copy the client-id and client-secret back into the Firebase app for the that provider.
-  - https://console.firebase.google.com/project/\<YOUR-APP\>/authentication/providers
+  - https://console.firebase.google.com/project\/\<YOUR-APP\>\/authentication/providers
 
